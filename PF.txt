@@ -1,0 +1,5 @@
+PROYECTO FINAL:
+    App sobre venta de hamburguesas.
+    Integrado con algun servicio para tener dos visualizaciones
+    Una para registrar el pedido(cantidad tipo etc)
+    Otra para ver el listado de los pedidos con estado de progreso
